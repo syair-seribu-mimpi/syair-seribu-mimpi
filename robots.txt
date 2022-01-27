@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-seribu-mimpi.github.io/sitemap.xml
